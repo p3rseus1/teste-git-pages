@@ -90,7 +90,8 @@ header {
 }
 
 main {
-  margin-top: 4.2rem;
+  margin: 0 10rem;
+  margin-top: 4.2rem !important;
 }
 
 #hero {
@@ -384,6 +385,7 @@ main {
 }
 
 footer {
+  margin: 0 10rem;
   padding: 0 3rem;
 }
 
